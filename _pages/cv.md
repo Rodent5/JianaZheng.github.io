@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
- <font face="Times New Roman">
- <font size=4>
-
 
 ## <font color="purple">Research Interest</font>
 
@@ -181,5 +178,3 @@ _Project Leader, Advisor: Dr. Rucheng Dai USTC, China_
 - Proficient in many characterization methods, including XRD, SEM, TEM, UV/Vis and fluorescence spectrometer
 - Proficient in analytical methods like NMR, IC, GC, and ICP
 - Skilled use of software for data analysis, including DigitalMicrograph for TEM/STEM , MestReNova for NMR and Image J (for microscopy photo processing)
-</font>
-</font>
