@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,145 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Interest
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Nanomaterials, Electrocatalyst, Perovskites**
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+**University of Science and Technology of China (USTC), China** Hefei, China, _08/2020-06/2024_
+
+_ **School of the Gifted Young** _
+
+_**BS in Applied Physics (Condensed Matter Physics Track)**_
+
+- **GPA 3.6/4.3 (86.56/100)**
+- **Selected**** Scholarships **** & **** Awards**
+
+National Second-class Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) _11/2022_
+
+Provincial Gold Award ,National Business Plan Competition _05/2022_
+
+Outstanding Contribution Award at School of the Gifted Young Student Union _03/2022_
+
+Bronze award, Outstanding Student Scholarship _09/2021_
+
+Bronze award, Outstanding Freshman Scholarship _09/2020_
+
+## Research experience
+
+- **Interest 1: Conversion of small molecules through electrocatalytic methods**
+
+_RA in_ _Hefei National Laboratory for Physical Sciences at Microscale, Advisor: Prof. __Jie Zeng_ _USTC__ , China_
+
+**Training :**** Synthesize Amorphous Cu Nanoparticles for Efficient CO ****2**** Electroreduction **** to Liquid fuels** _08/2021-11/2021_
+
+- Repeated the experiment published on  _Adv. Mater._ 2018, _30_, 1–7
+- Synthesized amorphous Cu (a-Cu) nanoparticles using tannic acid at room temperature, and crystallographic Cu (c-Cu) nanoparticles using NaBH4 and PVP
+- Determined the concentration of as-synthesized Cu via ICP, gained the experience in how to use GC and NMR to analyze the yields of gas and liquid products, respectively
+- Learned the basic research paradigm of electrocatalysis
+
+**Project 1: Explore distance effect of single atoms on the stability of cobalt oxide OER catalysts** _05/2022-01/2023_
+
+- Synthesized the Ir-Cu0.3Co2.7O4 single atom catalyst (SACs) through high-temperature pyrolysis of metal-organic frameworks (MOFs)
+- Estimated average Ir-Ir distances on the exposed surface of SACs through HAADF-STEM image, and identified Ir distribution in catalyst by EDX elemental mapping
+- Tested the electrocatalytic performance and the stability in acidic environment of each catalyst, and discovered the optimal Ir-Ir distances (~0.6nm) for stable acidic OER
+- DFT calculation indicated that shorter Ir-Ir distances (~0.56nm at minimum) will inhibit the dissolution of cobalt oxide by increasing the migration energies of Co atom on the surface, which agreed well with our experimental results.
+
+**Project 2:**  **Electro**** synthesis of Oxalate using CO ****2**  **over Pb-based Catalyst** _12/2021-06/2023_
+
+- Oxidized the Pb foils in air followed by H2 reduction in tubular furnace to obtain large uniform high-index lead facets with more catalytic active sites
+- Selected Et4NBF4-DMF as the aprotic electrolyte system to inhibit hydrogen evolution reaction (HER), thereby improving the selectivity of C-C coupling process
+- Chose Zn foil as a sacrificial anode to precipitate the generated oxalate ion during the reaction, thus assisted the desorption of C2O42- and managed to maintain a high selectivity of CO2-to-C2O42- conversion
+- Achieved a higher Faradic efficiency of oxalate (~90%) and a higher current (\>100mA vs -3.0V) than previously reported
+- Gained a deeper understanding of CO2 reduction mechanism
+
+**Project 3: Electrosynthesis of NH**** 2 ****OH** _ **via** _ **plasma-electrochemical cascade pathway using N**** 2 **** and H ****2**** O** _12/2022-06/2023_
+
+- Prepared the working electrode by magnetron sputtering Bi NPs onto carbon fiber paper
+- Used plasma discharge device to convert N2 and O2 into NOX, and NOX was then absorbed into water to form NO3-
+- Adopted an excess amount of CHOCOOH to capture as-electroreducted NH2OH into glyoxylic acid oxime
+- The Bi NPs catalyst exhibit a high FE (73.4%) and selectivity (99.3%) towards NH2OH
+- Project 2 and 3 were aimed to realize full electrosynthesis of glycine (CO2-(COOH)2-CHOCOOH-NH2CH2COOH)
+
+- **Interest 2: Synthesis of functional nanomaterials (including metal & perovskites nanostructures)**
+
+**Project 1: Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device** _02/2022-10/2022_
+
+_Independent Project_ _in_ _Hefei National Laboratory for Physical Sciences at Microscale__, Advisor: Prof. Jie Zeng_ _USTC, China_
+
+- Synthesized mono-dispersed Cu nanocrystals(NCs) via seed-growth mechanism using copper acetate as copper source, ascorbic acid as reductant, and PVP as surfactant
+- Improved the purity and uniformity of Cu nanoparticles by decoupling the growth step from nucleation in a flow reactor
+- Tuned the concentration of precursor and adjusted the ratio of copper source involved in each step to produce Cu nanoparticles of different sizes
+- Tested the stability of continuous synthesis of Cu NCs in an experimental flow chemistry device
+- Characterized the morphology of as-synthesized Cu NCs via SEM
+- **Achievements:** Won the Provincial Gold Award in the "Challenge Cup" National Business Plan Competition and the **Bronze Award** in "Qingfeng Cup" Innovation and Entrepreneurship Competition of USTC
+
+**Project 2: Employ Au nanocages/ZIF series MOFs as host carrier to encapsulate perovskite NCs** _07/2023-Present_
+
+_Independent Project, Advisor: Prof. Ou Chen, Department of Chemistry Brown University, United States_
+
+- Synthesized Au nanocages using Ag nanocubes as templates via galvanic replacement
+- Encapsulate functional nanostructures (like Ag nanocubes and QDs) in ZIF-8 nanoparticles
+- Try to use zwitterionic ligands (like lecithin) and ligand-exchange methods to bridge the gap between nanoparticles dispersible in polar and non-polar solvents, thereby loading perovskites in cage-like structure for enhanced stability
+
+**First-principles Calculations of Electron-phonon Coupling Phenomenon in GaAs and Si** _10/2022-12/2022_
+
+_Undergraduate Researcher, Advisor: Prof. Jin Zhao, Department of Physics USTC, China_
+
+- Obtained skills to run a calculation task on remote supercomputers through personal terminal
+- Carried out elementary electron and phonon calculations with DFT and DFPT using Quantum Espresso
+
+**U**** PCOMING **** P ****UBLICATIONS**
+
+**Distance effect of single atoms on the stability of cobalt oxide catalysts for acidic oxygen evolution**
+
+Zhirong Zhang1†, Chuanyi Jia2†, Peiyu Ma3†, Chen Feng1, Jin Yang1, Junming Huang1, **Jiana Zheng**** 1 **, Ming Zuo1, Shiming Zhou1\*, Jie Zeng1,4** \***
+
+(Nature Communications 23-43865; Current stage: Manuscript under consideration)
+
+**Electrosynthesis of**  **hydroxylamine** _ **via** _ **plasma-electrochemical cascade pathway**  **using the air and water as raw materials**
+
+Xiangdong Kong1,3, Jie Ni1,3, Zhimin Song1, Zhengwu Yang1, **Jiana Zheng**** 1**, Zifan Xu1, Lang Qin,1 Hongliang Li1, Zhigang Geng1,\*, Jie Zeng1,2,\*
+
+(Nature Energy 2309202; Current stage: Manuscript under consideration)
+
+**C**** ONTEST **** E ****XPERIENCE**
+
+**Contest Project: Azimuth-only Passive Positioning of UAV in Formation Flight** _09/2022_
+
+_Core member, responsible for building mathematical models and writing papers_
+
+- Created the model in Python and figured out solutions through geometric knowledge and iterative algorithm
+- Organized and wrote an academic essay according to solving threads and computational simulation results
+- **Achievement:** Won the **National Second-class Prize** in the 2022 China Undergraduate Mathematical Contest in Modeling
+
+**R**** ELEVANT **** C ****OURSEWORK**
+
+**Synthesis of Cu-based Nanomaterials for Electrocatalytic Reduction of CO**** 2**
+
+**(Course: College Physics—Research Experiment)** _09/2022-01/2023_
+
+_Project Leader, Advisor: Dr. Rucheng Dai USTC, China_
+
+- Designed and supervised the experiment as the project leader
+- Prepared the gas-diffusion working electrode with porous carbon paper and Cu NPs (as the electrocatalyst, which can be produced in the previous Controllable Mass Production project through the flow reactor)
+- Tested the electrochemical performance of Cu-based materials and discovered catalytic preferences of each catalyst
+- Analyzed the constituent of liquid products via NMR, gas products via GC, and calculated the Faraday efficiency of each kind of product afterwards
+
+**T**** ECHNICAL **** P ****ROFICIENCIES**
+
+**Computer Skills:**
+
+- Database: Scopus, Web of Science, and Google Scholar
+- Basic software: Endnote, Origin and MATLAB
+- Codes: Python, C, and Linux
+
+**Research Skills:**
+
+- Proficient in conducting electrochemical experiments using H-cell, flow-cell and software like CHI660E, CHI1140E
+
+- Proficient in many characterization methods, including XRD, SEM, TEM, UV/Vis and fluorescence spectrometer
+- Proficient in analytical methods like NMR, IC, GC, and ICP
+- Skilled use of software for data analysis, including DigitalMicrograph for TEM/STEM , MestReNova for NMR and Image J (for microscopy photo processing)
