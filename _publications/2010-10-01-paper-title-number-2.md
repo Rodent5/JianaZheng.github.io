@@ -3,7 +3,7 @@ title: "(Upcoming) Electrosynthesis of hydroxylamine via plasma-electrochemical 
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
-date: 
+date: 2023-08-25
 venue: 'Yet to be Published'
 paperurl: 
 citation: 
