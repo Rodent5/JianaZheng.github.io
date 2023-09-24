@@ -19,9 +19,9 @@ redirect_from:
 
 ## <font color="purple">Education</font>
 
- **<big>University of Science and Technology of China (USTC), China</big>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _08/2020-06/2024_
+ **University of Science and Technology of China (USTC), China** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _08/2020-06/2024_
 
-_**<big>School of the Gifted Young, B.S in Applied Physics (Condensed Matter Physics Track)</big>**_
+_**School of the Gifted Young, B.S in Applied Physics (Condensed Matter Physics Track)**_
 
 - **GPA 3.6/4.3 (86.56/100)**
 - **Selected Scholarships and Awards**
@@ -40,7 +40,7 @@ Bronze award, Outstanding Freshman Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _0
 
 ## <font color="purple">Research Experience</font>
 
-**<font color="purple"><font size=5>Interest 1: Conversion of small molecules through electrocatalytic methods</font></font>**
+**<font color="purple"><font size=4>Interest 1: Conversion of small molecules through electrocatalytic methods</font></font>**
 
 _RA in Hefei National Laboratory for Physical Sciences at Microscale, Advisor: Prof.Jie Zeng, USTC, China_
 
@@ -83,7 +83,7 @@ _12/2022-06/2023_
 - The Bi NPs catalyst exhibit a high FE (73.4%) and selectivity (99.3%) towards NH<sub>2</sub>OH
 - Project 2 and 3 were aimed to realize full electrosynthesis of glycine (CO<sub>2</sub>-(COOH)<sub>2</sub>CHOCOOH-NH<sub>2</sub>CH<sub>2</sub>COOH)
 
-**<font color="purple"><font size=5>Interest 2: Synthesis of functional nanomaterials (including metal & perovskites nanostructures)</font></font>**
+**<font color="purple"><font size=4>Interest 2: Synthesis of functional nanomaterials (including metal & perovskites nanostructures)</font></font>**
 
 **Project 1: Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device** &nbsp;&nbsp; 
 
@@ -137,7 +137,7 @@ Xiangdong Kong, Jie Ni, Zhimin Song, Zhengwu Yang, **Jiana Zheng**, Zifan Xu, La
 
 ## <font color="purple">Contest Experience</font>
 
-**<big>Contest Project: Azimuth-only Passive Positioning of UAV in Formation Flight</big>**
+**Contest Project: Azimuth-only Passive Positioning of UAV in Formation Flight**
 
 _09/2022-01/2023_
 
@@ -151,7 +151,7 @@ _Core member, responsible for building mathematical models and writing papers_
 
 ## <font color="purple">Relevant Coursework</font>
 
-**<big>Synthesis of Cu-based Nanomaterials for Electrocatalytic Reduction of CO<sub>2<sub></big>**
+**Synthesis of Cu-based Nanomaterials for Electrocatalytic Reduction of CO<sub>2<sub>**
 
 **(Course: College Physics—Research Experiment)**&nbsp;&nbsp; 
 
