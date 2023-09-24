@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 
-<font face="Times New Roman">
-<font size=4>
-
-
 ## <font color="purple">Research Interest</font>
 
 **<big>Nanomaterials, Electrocatalyst, Perovskites</big>**
