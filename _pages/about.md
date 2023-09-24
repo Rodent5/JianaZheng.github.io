@@ -15,4 +15,4 @@ I'm very fortunate to be advised by [Prof.Jie Zeng](http://catalysis.ustc.edu.cn
 
 In this website you can find my CV, my personal experience, and explore different sides of me. 
 
-- (Notice: Section "CV", "Publications" and "Contact" are good to use now. Other parts (Experience, Research, Awards) are still under construction.)
+- (Notice updated on 09/24/2023: Section "CV", "Publications" and "Contact" are good to use now. Other parts (Experience, Research, Awards) are still under construction.)
