@@ -3,7 +3,7 @@ title: "(Upcoming) Distance effect of single atoms on the stability of cobalt ox
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 
-date: 
+date: 2023-09-19
 venue: 'Yet to be published'
 paperurl: ''
 ---
