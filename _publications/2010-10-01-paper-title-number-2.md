@@ -11,3 +11,5 @@ citation:
 This paper is about the number 2. The number 3 is left for future work.
 
 [Full Manuscript](../assets/Electrosynthesis of NH2OH from the air and H2O.pdf)
+
+Current stage: Manuscript under consideration
