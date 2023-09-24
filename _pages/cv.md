@@ -28,10 +28,15 @@ _**<big>School of the Gifted Young, B.S in Applied Physics (Condensed Matter Phy
 
 - **GPA 3.6/4.3 (86.56/100)**
 - **Selected Scholarships and Awards**
+
 National Second-class Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_11/2022_
+
 Provincial Gold Award ,National Business Plan Competition &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _05/2022_
+
 Outstanding Contribution Award at School of the Gifted Young Student Union &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _03/2022_
+
 Bronze award, Outstanding Student Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _09/2021_
+
 Bronze award, Outstanding Freshman Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _09/2020_
 
 ---
