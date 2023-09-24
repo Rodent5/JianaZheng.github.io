@@ -2,9 +2,6 @@
 main:
   - title: "CV"
     url: /cv/ 
-    
-  - title : "Contact"
-    url: /talks/
 
   - title: "Experiences"
     url: /teaching/    
@@ -18,5 +15,5 @@ main:
   - title: "Awards"
     url: /year-archive/
 
-  - title: "Guide"
+  - title: "Contact"
     url: /markdown/
