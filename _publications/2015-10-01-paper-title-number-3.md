@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "(Upcoming)Distance effect of single atoms on the stability of cobalt oxide catalysts for acidic oxygen evolution"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
@@ -8,8 +8,8 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Zhirong Zhang<sup>1</sup>†, Chuanyi Jia<sup>2</sup>†, Peiyu Ma<sup>3</sup>†, Chen Feng<sup>1</sup>, Jin Yang<sup>1</sup>, Junming Huang<sup>1</sup>, Jiana Zheng<sup>1</sup>, Ming Zuo<sup>1</sup>, Shiming Zhou<sup>1</sup>*, Jie Zeng<sup>1,4</sup>*
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Full manuscript](../assets/Distance effect of single atoms-MS-08-12-2023.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Current stage: Contacting potential viewers
