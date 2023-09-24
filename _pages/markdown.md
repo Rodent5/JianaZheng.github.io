@@ -10,7 +10,7 @@ redirect_from:
 
 **Email**: 
 
-zjn91767698@ustc.edu.cn (USTC) and jianazheng@brown.edu
+zjn91767698@ustc.edu.cn (USTC) and jiana_zheng@brown.edu
 
 **Phone number**: 
 
