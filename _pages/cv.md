@@ -151,7 +151,7 @@ _Core member, responsible for building mathematical models and writing papers_
 
 ## <font color="purple">Relevant Coursework</font>
 
-**Synthesis of Cu-based Nanomaterials for Electrocatalytic Reduction of CO<sub>2<sub>**
+**Synthesis of Cu-based Nanomaterials for Electrocatalytic Reduction of CO<sub>2</sub>**
 
 **(Course: College Physics—Research Experiment)**&nbsp;&nbsp; 
 
