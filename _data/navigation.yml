@@ -15,8 +15,8 @@ main:
   - title: "Awards"
     url: /year-archieve/
 
-    - title: "Contact info"
+  - title: "Contact info"
     url: /talks/   
     
-  - title: "Guides"
+  - title: "Guide"
     url: /markdown/
