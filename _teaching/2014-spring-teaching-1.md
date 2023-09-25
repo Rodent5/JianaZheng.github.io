@@ -8,9 +8,9 @@ date: 2023-04-09
 location: "Shanghai, China"
 ---
 
-From April 9th to 10th, I visited the Shanghai Institute of Applied Physics and the Shanghai Synchrotron Radiation Source, and held academic discussions with scientific researchers on issues such as electrocatalysis, in-situ characterization, and new energy batteries.
+From April 9th to 10th, I visited the **Shanghai Institute of Applied Physics** and the **Shanghai Synchrotron Radiation Facilities (SSRF)**, and held academic discussions with scientific researchers on issues such as electrocatalysis, in-situ characterization, and new energy batteries.
 
-Heading 1
+Shanghai Institute of Applied Physics
 ======
 
 Heading 2
