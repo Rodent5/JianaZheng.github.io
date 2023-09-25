@@ -67,7 +67,7 @@ _05/2022-01/2023_
 
 **Project 2:**  **Electrosynthesis of Oxalate using CO<sub>2</sub> over Pb-based Catalyst**
 
-_12/2021-06/2023_
+_12/2021-06/2023, Independent project_
 
 - Oxidized the Pb foils in air followed by H<sub>2</sub> reduction in tubular furnace to obtain large uniform high-index lead facets with more catalytic active sites
 - Selected Et<sub>4</sub>NBF<sub>4</sub>-DMF as the aprotic electrolyte system to inhibit hydrogen evolution reaction (HER), thereby improving the selectivity of C-C coupling process
