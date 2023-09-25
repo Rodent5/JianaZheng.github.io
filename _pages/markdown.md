@@ -10,11 +10,13 @@ redirect_from:
 
 **Email**: 
 
-zjn91767698@ustc.edu.cn (USTC) and jiana_zheng@brown.edu
+USTC: zjn91767698@ustc.edu.cn
+Brown：jiana_zheng@brown.edu
 
 **Phone number**: 
 
-(+86)19855759768 and 401-837-8361
+CN: (+86)19855759768
+US: 401-837-8361
 
 **Address in China**:  
 
@@ -22,7 +24,7 @@ University of Science and Technology of China, 373 Huangshan St., Hefei, Auhui,2
 
 **Address in US**: 
 
-546 Angell St.,Providence, RI,02906
+546 Angell St., Providence, RI, 02906
 
 **Wechat**:
 
