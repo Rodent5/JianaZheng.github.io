@@ -13,7 +13,9 @@ redirect_from:
 
 ## <font color="purple">Research Interest</font>
 
-**<big>Nanomaterials, Electrocatalyst, Perovskites</big>**
+- **<big>Nanotechnology for energy and electrocatalysis</big>**
+- **<big>Perovskite nanomaterials**
+- **<big>Multifunctional nanomaterials</big>**
 
 ---
 
