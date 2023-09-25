@@ -9,12 +9,3 @@ location: "Hefei, China"
 ---
 
 On April 14th, I participated in a marathon held by the Talented program in USTC.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
