@@ -23,9 +23,13 @@ Synchrotron Radiation Facilities
 Acadamic discussion in Shanghai Institute of Applied Physics
 ===
 
-![SSRF1](./images/SSRF1.png)
+![SSRF1](../images/SSRF1.jpg)
+
+![PPT](../images/insituPPT.jpg)
 
 Group photo of the Talented Program and Professors in SSRF
 ======
 
 ![SSRF](../images/SSRF.png)
+
+I was the fourth one from the right (in 1st row)
