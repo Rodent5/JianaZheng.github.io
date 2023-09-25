@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-I'm a senior student from School of Physics, [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). Although my major is Condensed Matter Physics, the intersection of Chemistry, Physics and Materials science is the most attractive field to me. And my research interest includes electrocatalyst, nanotechnology and perovskites.
+I'm a senior student from School of Physics, [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). My major is Condensed Matter Physics, and the interdiscipline of Chemistry and Physic is the most attractive field to me. My research interest includes:
+
+- Nanotechnology for energy and electrocatalysis
+- Perovskite nanomaterials
+- Multifunctional nanomaterials
 
 I'm very fortunate to be advised by [Prof.Jie Zeng](http://catalysis.ustc.edu.cn/zwjj/list.htm) of Hefei National Research Center for Physical Sciences at the Microscale, USTC. I'm also advised by [Prof. Ou Chen](https://chenlab.brown.edu/) of Department of Chemistry, Brown University, and I'm currently working in his lab as a visiting student.
 
