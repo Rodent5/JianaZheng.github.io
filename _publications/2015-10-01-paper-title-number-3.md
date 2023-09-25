@@ -7,7 +7,7 @@ date: 2023-09-19
 venue: 'Nature Communications'
 paperurl: ''
 ---
-Zhirong Zhang<sup>1</sup>†, Chuanyi Jia<sup>2</sup>†, Peiyu Ma<sup>3</sup>†, Chen Feng<sup>1</sup>, Jin Yang<sup>1</sup>, Junming Huang<sup>1</sup>, Jiana Zheng<sup>1</sup>, Ming Zuo<sup>1</sup>, Shiming Zhou<sup>1</sup>*, Jie Zeng<sup>1,4</sup>*
+Zhirong Zhang<sup>1</sup>†, Chuanyi Jia<sup>2</sup>†, Peiyu Ma<sup>3</sup>†, Chen Feng<sup>1</sup>, Jiana Zheng<sup>1</sup>, Jin Yang<sup>1</sup>, Junming Huang<sup>1</sup>, Ming Zuo<sup>1</sup>, Shiming Zhou<sup>1</sup>*, Jie Zeng<sup>1,4</sup>*
 
 [Full manuscript](../assets/Distance effect of single atoms-MS-08-12-2023.pdf)
 
