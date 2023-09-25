@@ -1,14 +1,14 @@
 ---
-title: "Visiting: Shanghai Institute of Applied Physics, CAS"
+title: "Sports event: Marathon for the Talented Programs in USTC"
 collection: teaching
-type: "Visiting"
-permalink: /teaching/Shanghai.md
-venue: "Shanghai Institute of Applied Physics,"
+type: "Sports"
+permalink: /teaching/Marathon
+venue: "A resort in Hefei"
 date: 2023-04-09
-location: "Shanghai, China"
+location: "Hefei, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+On April 14th, I participated in a marathon held by the Talented program in USTC.
 
 Heading 1
 ======
