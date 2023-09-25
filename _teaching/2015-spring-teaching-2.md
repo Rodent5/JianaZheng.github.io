@@ -13,14 +13,14 @@ On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I partici
 Global Ranking 
 ======
 
-![436th Ranking in Fortune 500](images/Fortune436.png)
+![436th Ranking in Fortune 500](images/Fortune 436.png)
 
 Tongling Nonferrous Metals Group Co., Ltd. is the 436th in the Fortune Global 500 Companies, 2023
 
 Group Photo
 ======
 
-![group photo](../images/TonglingLtd.jpg "Group Photo")
+![group photo](../images/Tongling Ltd.jpg "Group Photo")
 
 A group photo of the participants. I was the first one from the left, and Prof. Jie Zeng was the fourth one from the left(in the middle).
 
