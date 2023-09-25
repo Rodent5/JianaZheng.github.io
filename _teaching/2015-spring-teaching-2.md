@@ -12,7 +12,9 @@ On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I partici
 
 Tongling Nonferrous Metal Group Co., Ltd.
 ======
+
 ![436th Ranking in Fortune 500](../images/Fortune 436.png)
+
 Heading 2
 ======
 
