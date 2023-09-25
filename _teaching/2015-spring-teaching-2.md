@@ -3,7 +3,7 @@ title: "University-Enterprise Cooperation Symposium"
 collection: teaching
 type: "Meeting"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Tongling Nonferrous Metals Group Co., Ltd.(436th Ranking in Fortune 500)"
+venue: "Tongling Nonferrous Metals Group Co., Ltd.(In the Fortune Global 500)"
 date: 2022-07-05
 location: "Anhui, China"
 ---
@@ -12,7 +12,7 @@ On July 6, 2022, as a member of Professor Zeng Jie’s team in USTC, I participa
 
 Tongling Nonferrous Metal Group Co., Ltd.
 ======
-
+![436th Ranking in Fortune 500](../images/Fortune 436.png)
 Heading 2
 ======
 
