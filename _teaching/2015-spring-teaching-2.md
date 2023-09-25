@@ -2,7 +2,7 @@
 title: "University-Enterprise Cooperation Symposium"
 collection: teaching
 type: "Meeting"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Tongling Nonferrous Metals Group Co., Ltd.(In the Fortune Global 500)"
 date: 2022-07-05
 location: "Anhui, China"
