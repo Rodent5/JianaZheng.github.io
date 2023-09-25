@@ -13,7 +13,7 @@ On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I partici
 Global Ranking 
 ======
 
-![436th Ranking in Fortune 500](images/Fortune 436.png)
+![436th Ranking in Fortune 500](images/Fortune.png)
 
 Tongling Nonferrous Metals Group Co., Ltd. is the 436th in the Fortune Global 500 Companies, 2023
 
