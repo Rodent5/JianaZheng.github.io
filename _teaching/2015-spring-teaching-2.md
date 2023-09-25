@@ -10,13 +10,21 @@ location: "Anhui, China"
 
 On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I participated in a symposium with Tongling Nonferrous Metals Group Co., Ltd.，where I presented my research results of **Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device.** 
 
-Tongling Nonferrous Metal Group Co., Ltd.
+Tongling Nonferrous Metal Group Co., Ltd., 436th in the Fortune Global 500 Companies, 2023
 ======
 
 ![436th Ranking in Fortune 500](../images/Fortune 436.png)
 
-Heading 2
+Group Photo
 ======
 
-Heading 3
+![group photo](../images/Tongling Ltd.png "Group Photo")
+
+A group photo of the participants. I was the first one from the left, and Prof. Jie Zeng was the fourth one from the left(in the middle).
+
+Symposium
 ======
+
+![symposium](../images/Conference.png)
+
+Photo shot on the Symposium. I was presenting my research results.
