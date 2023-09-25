@@ -18,7 +18,7 @@ Tongling Nonferrous Metal Group Co., Ltd., 436th in the Fortune Global 500 Compa
 Group Photo
 ======
 
-![group photo](../images/Tongling Ltd.png "Group Photo")
+![group photo](../images/Tongling Ltd.jpg "Group Photo")
 
 A group photo of the participants. I was the first one from the left, and Prof. Jie Zeng was the fourth one from the left(in the middle).
 
