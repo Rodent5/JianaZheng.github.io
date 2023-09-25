@@ -125,7 +125,7 @@ _Undergraduate Researcher, Advisor: Prof. Jin Zhao, Department of Physics USTC, 
 
 **<big>Distance effect of single atoms on the stability of cobalt oxide catalysts for acidic oxygen evolution</big>**
 
-Zhirong Zhang†, Chuanyi Jia†, Peiyu Ma†, Chen Feng, Jin Yang, Junming Huang, **Jiana Zheng**, Ming Zuo1, Shiming Zhou*, Jie Zeng*
+Zhirong Zhang†, Chuanyi Jia†, Peiyu Ma†, Chen Feng, **Jiana Zheng**, Jin Yang, Junming Huang, Ming Zuo, Shiming Zhou*, Jie Zeng*
 
 (Nature Communications 23-43865; Current stage: Manuscript under consideration)
 
