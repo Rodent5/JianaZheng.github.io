@@ -14,7 +14,7 @@ redirect_from:
 ## <font color="purple">Research Interest</font>
 
 - **<big>Nanotechnology for energy and electrocatalysis</big>**
-- **<big>Perovskite nanomaterials**
+- **<big>Perovskite nanomaterials</big>**
 - **<big>Multifunctional nanomaterials</big>**
 
 ---
@@ -83,7 +83,7 @@ _12/2022-06/2023_
 - Used plasma discharge device to convert N<sub>2</sub> and O<sub>2</sub> into NO<sub>x</sub>, and NO<sub>x</sub> was then absorbed into water to form NO<sub>3</sub><sup>-<sup>
 - Adopted an excess amount of CHOCOOH to capture as-electroreducted NH<sub>2</sub>OH into glyoxylic acid oxime
 - The Bi NPs catalyst exhibit a high FE (73.4%) and selectivity (99.3%) towards NH<sub>2</sub>OH
-- Project 2 and 3 were aimed to realize full electrosynthesis of glycine (CO<sub>2</sub>-(COOH)<sub>2</sub>CHOCOOH-NH<sub>2</sub>CH<sub>2</sub>COOH)
+- Project 2 and 3 were aimed to realize full electrosynthesis of glycine (CO<sub>2</sub>--(COOH)<sub>2</sub>--CHOCOOH--NH<sub>2</sub>CH<sub>2</sub>COOH)
 
 **<font color="purple"><font size=4>Interest 2: Synthesis of functional nanomaterials (including metal & perovskites nanostructures)</font></font>**
 
