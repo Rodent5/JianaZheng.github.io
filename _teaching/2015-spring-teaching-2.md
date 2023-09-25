@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "University-Enterprise Cooperation Symposium"
 collection: teaching
-type: "Workshop"
+type: "Meeting"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Tongling Nonferrous Metals Group Co., Ltd.(436th Ranking in Fortune 500)"
+date: 2022-07-05
+location: "Anhui, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+On July 6, 2022, as a member of Professor Zeng Jie’s team in USTC, I participated in a symposium with Tongling Nonferrous Metals Group Co., Ltd.，where I presented my research results of **Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device.** 
 
-Heading 1
+Tongling Nonferrous Metal Group Co., Ltd.
 ======
 
 Heading 2
