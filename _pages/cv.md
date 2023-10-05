@@ -25,7 +25,7 @@ redirect_from:
 
 _**School of the Gifted Young, B.S in Applied Physics (Condensed Matter Physics Track)**_
 
-- **GPA 3.6/4.3 (86.56/100)**
+- **GPA 3.6/4.3 (86.56/100), 3.83/4.0(WES)**
 - **Selected Scholarships and Awards**
 
 National Second-class Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_11/2022_
