@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
 date: 2023-08-25
-venue: 'Nature Energy'
+venue: 'Nature Sustainability'
 paperurl: 
 citation: 
 ---
