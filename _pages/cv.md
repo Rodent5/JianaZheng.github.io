@@ -98,7 +98,7 @@ _Independent Project in Hefei National Laboratory for Physical Sciences at Micro
 - Tuned the concentration of precursor and adjusted the ratio of copper source involved in each step to produce Cu nanoparticles of different sizes
 - Tested the stability of continuous synthesis of Cu NCs in an experimental flow chemistry device
 - Characterized the morphology of as-synthesized Cu NCs via SEM
-- **Achievements:** Won the **<u>Provincial Gold Award</u>** in the "Challenge Cup" National Business Plan Competition and the **Bronze Award** in "Qingfeng Cup" Innovation and Entrepreneurship Competition of USTC
+- **Achievements:** Won the **<u>Provincial Gold Award</u>** in National Business Plan Competition and the **Bronze Award** in "Qingfeng Cup" Innovation and Entrepreneurship Competition of USTC
 
 **Project 2: Employ Au nanocages/ZIF series MOFs as host carrier to encapsulate perovskite NCs**
 
@@ -127,13 +127,13 @@ _Undergraduate Researcher, Advisor: Prof. Jin Zhao, Department of Physics USTC, 
 
 Zhirong Zhang†, Chuanyi Jia†, Peiyu Ma†, Chen Feng, **Jiana Zheng**, Jin Yang, Junming Huang, Ming Zuo, Shiming Zhou*, Jie Zeng*
 
-(Nature Communications 23-43865; Current stage: Manuscript under consideration)
+(Nature Communications 23-43865; Current stage: All reviewers assigned)
 
 **<big>Electrosynthesis of hydroxylamine via plasma-electrochemical cascade pathway using the air and water as raw materials</big>**
 
 Xiangdong Kong, Jie Ni, Zhimin Song, Zhengwu Yang, **Jiana Zheng**, Zifan Xu, Lang Qin, Hongliang Li, Zhigang Geng,* Jie Zeng*
 
-(Nature Energy 2309202; Current stage: Manuscript under consideration)
+(Nature Sustainability 2310; Current stage: Manuscript under consideration)
 
 - Manuscript are available on my hompage-[Publications](https://rodent5.github.io/JianaZheng.github.io//publications/) for reference only.
 
