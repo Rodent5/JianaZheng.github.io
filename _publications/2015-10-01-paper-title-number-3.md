@@ -12,7 +12,7 @@ Zhirong Zhang<sup>1</sup>†, Chuanyi Jia<sup>2</sup>†, Peiyu Ma<sup>3</sup>�
 [Full text]
 <!--(../assets/Distance effect of single atoms.pdf)-->
 
-Current stage: All reviewers assigned
+Current stage: Under review
 
 Abstract
 ===
