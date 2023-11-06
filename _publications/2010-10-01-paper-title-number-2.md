@@ -13,7 +13,7 @@ Xiangdong Kong<sup>1,3</sup>, Jie Ni<sup>1,3</sup>, Zhimin Song<sup>1</sup>, Zhe
 [Full text]
 <!--(../assets/Electrosynthesis of NH2OH from the air and H2O.pdf)-->
 
-Current stage: All reviewers assighed
+Current stage: Under review
 
 Abstract
 ===
