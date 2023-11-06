@@ -9,7 +9,8 @@ paperurl: ''
 ---
 Zhirong Zhang<sup>1</sup>†, Chuanyi Jia<sup>2</sup>†, Peiyu Ma<sup>3</sup>†, Chen Feng<sup>1</sup>, Jiana Zheng<sup>1</sup>, Jin Yang<sup>1</sup>, Junming Huang<sup>1</sup>, Ming Zuo<sup>1</sup>, Shiming Zhou<sup>1</sup>*, Jie Zeng<sup>1,4</sup>*
 
-[Full manuscript](../assets/Distance effect of single atoms.pdf)
+[Full text]
+<!--(../assets/Distance effect of single atoms.pdf)-->
 
 Current stage: All reviewers assigned
 
