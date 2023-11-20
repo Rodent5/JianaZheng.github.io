@@ -8,7 +8,7 @@ date: 2022-07-05
 location: "Anhui, China"
 ---
 
-On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I participated in a symposium with Tongling Nonferrous Metals Group Co., Ltd.，where I presented my research results of **Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device.** 
+On July 6th, 2022, as a member of Professor Zeng Jie’s team in USTC, I participated in a symposium with Tongling Nonferrous Metals Group Co., Ltd.，where I presented my research program **Continuous Controllable Mass Production of Monodispersed Cu NCs in fluid device** and discussed the prospects of collaboration.
 
 Global Ranking 
 ======
